@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "apollo-boost": "0.1.16",
+    "graphql": "14.0.2",
+    "react-apollo": "2.1.11"
   }
 }
